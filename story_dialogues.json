@@ -1,0 +1,11 @@
+{
+   "start":"You were resting in a Inn at the town capital.",
+   "call" :"You get a message from the king to go save his kidnapped daugther.",
+   "leave":"You reached the magic forest and started searching for the princess.",
+   "first_encounter":"Suddenly a monster appeared!",
+   "continue":"You found a cave and went inside it",
+   "encounter":"Inside it was the dragon with the kidanpped princess",
+   "conclusion":"The hero save the princess successfully and took her to the palace..",
+   "battle":"You encountered an enemy!! get ready for battle"
+
+}

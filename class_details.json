@@ -1,0 +1,20 @@
+{
+  "classes": {
+    "swordsman": {
+      "number": 1,
+      "description": "medium attack and defence but powerful"
+    },
+    "archer": {
+      "number": 2,
+      "description": "high attack low defence but sneaky"
+    },
+    "mage": {
+      "number": 3,
+      "description": "high attack but weak hp yet can be very powerful"
+    },
+    "tank": {
+      "number": 4,
+      "description": "low attack high defence yet has a secret trump"
+    }
+  }
+}
